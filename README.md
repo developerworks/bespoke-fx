@@ -1,5 +1,3 @@
-[![Build Status](https://secure.travis-ci.org/developerworks/bespoke-fx.png?branch=master)](https://travis-ci.org/developerworks/bespoke-fx) [![Coverage Status](https://coveralls.io/repos/developerworks/bespoke-fx/badge.png)](https://coveralls.io/r/developerworks/bespoke-fx)
-
 # bespoke-fx
 
 New bespoke plugin compatible with latest bespoke.js
