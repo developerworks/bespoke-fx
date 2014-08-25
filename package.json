@@ -1,13 +1,13 @@
 {
   "name": "bespoke-fx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "New bespoke plugin compatible with latest bespoke.js",
   "homepage": "https://github.com/developerworks/bespoke-fx",
   "bugs": "https://github.com/developerworks/bespoke-fx/issues",
   "author": {
     "name": "",
     "url": "https://github.com/developerworks",
-    "email": "hezhiqiang@cygftech.com"
+    "email": "developerworks@163.com"
   },
   "main": "./lib/bespoke-fx.js",
   "repository": {
