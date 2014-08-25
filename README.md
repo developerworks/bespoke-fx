@@ -42,12 +42,6 @@ bespoke.from('#presentation', [
 $ npm install bespoke-fx
 ```
 
-### Bower
-
-```bash
-$ bower install bespoke-fx
-```
-
 ## Credits
 
 This plugin was built with [generator-bespokeplugin](https://github.com/markdalgleish/generator-bespokeplugin).
