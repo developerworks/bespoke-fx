@@ -827,7 +827,7 @@ module.exports = function (options) {
         if (reverse || inSlide.getAttribute('data-bespoke-fx-reverse') === 'true') {
           directive = directive === 'next' ? 'prev' : 'next';
         }
-        var slide_transition_name = inSlide.getAttribute('data-bespoke-fx-transition');
+        var slide_transition_name = inSlide.getAttribute('data-bespoke-fx-transition') || transition;
         var slide_transition = this.fx[slide_transition_name][axis] ? this.fx[slide_transition_name][axis] : this.fx[transition][axis];
         var transition_name = slide_transition[directive];
         var outClass = this.animations[transition_name].outClass;
